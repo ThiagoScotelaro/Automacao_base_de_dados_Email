@@ -1,6 +1,6 @@
 # Projeto-automacao-python
 
-Ao iniciar a automação, o python faz todo trabalho humano repetitivo de acessar o Google Crhome, vai ao endereço do site da base de dados, faz o donwload do arquivo, busca o arquivo no computador, faz o tratamento de dados, faz a conversão do tipo de arquivo CSV para XLSX, pega as informações desejadas ou até mesmo o próprio arquivo e faz o envio das informações para o email Desejado.
+O projeto tem o objetivo de automatizar um processo de atualização de uma base de dados.Ao iniciar a automação, o python acessa o navegador, acessa a  base de dados, faz o donwload do arquivo, faz o tratamento de dados e faz o envio das informações por email.
 
 <p>Para a utilização do código vamos precisar das seguintes Blibliotecas:</p>
 
